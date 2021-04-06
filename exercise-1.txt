@@ -6,6 +6,3 @@ I do not like SVN.
 
 we love git.
 I do not like SVN.
-
-we love git.
-I do not like SVN.
