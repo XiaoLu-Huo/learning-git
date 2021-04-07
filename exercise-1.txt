@@ -3,8 +3,4 @@ I am learning git !!!
 0406学习git，这个其实很简单
 we love git.
 I do not like SVN.
-
-we love git.
-I do not like SVN.
-
-start git 0407
+start git 0407.
